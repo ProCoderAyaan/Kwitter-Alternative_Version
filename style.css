@@ -80,11 +80,11 @@ background-image: linear-gradient(to right top, #20d43e, #1bc427, #34bf63, #27d7
 	position: fixed;
 	bottom: 0px;
 	width: 100%;
-	background: rgba(86,83,82,0.8);
+	background: rgba(86,83,80,0.8);
 }
 .input_div_message_page label
 {
-	color: rgba(86,83,82,0.8);
+	color: rgba(86,83,80,0.8);
 }
 .input_div_message_page #msg
 {
